@@ -27,3 +27,6 @@ Outside of projects, I completed a software development training where I wrote I
 
 - Email: navlakhetanishk@gmail.com
 - LinkedIn: linkedin.com/in/tanishk-navlakhe
+
+## 📄 Download Full Document
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Miclient/blob/main/Tanishk_Miclient.pdf)**
