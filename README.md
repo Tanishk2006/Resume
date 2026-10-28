@@ -25,9 +25,9 @@ Outside of projects, I completed a software development training where I wrote I
 
 ## How to Reach Me
 
-Email: tanishk.23bce10934@vitbhopal.ac.in/navlakhetanishk@gmail.com
-LinkedIn: linkedin.com/in/tanishk-navlakhe
-GitHub: github.com/Tanishk2006
+- Email: navlakhetanishk@gmail.com
+- LinkedIn: [linkedin.com/in/tanishk-navlakhe](https://linkedin.com/in/tanishk-navlakhe)
+- GitHub: [github.com/Tanishk2006](https://github.com/Tanishk2006)
 
 ## 📄 Download Full Document
 👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Resume/blob/main/Tanishk_Navlakhe_Universal_Resume%20(1).pdf)**
