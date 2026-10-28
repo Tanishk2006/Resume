@@ -28,6 +28,7 @@ Outside of projects, I completed a software development training where I wrote I
 Email: tanishk.23bce10934@vitbhopal.ac.in/navlakhetanishk@gmail.com
  
 LinkedIn: linkedin.com/in/tanishk-navlakhe
+
 GitHub: github.com/Tanishk2006
 
 ## 📄 Download Full Document
